@@ -1,0 +1,5 @@
+# Algorithm : QR
+# Metric    : dist_U = sqrt(1-sigma_min(U_t^T U_{t-1})^2)  [Theorem 2.5.1]  in [0, 1]
+# tol       : 0.0001
+# iter	dist_U
+1	1.064155761680e-07
